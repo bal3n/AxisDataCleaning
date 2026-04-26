@@ -1,6 +1,6 @@
 <div align="center">
 
-# AxisDataProcessing
+# AxisDataCleaning
 
 An offline **trajectory smoothing, resampling, and evaluation toolkit**  
 **Raw teleoperation → Clean trajectories → Metrics & offline task checking**
