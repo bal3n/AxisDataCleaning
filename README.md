@@ -1,3 +1,5 @@
+<div align="center">
+
 # AxisDataProcessing
 
 An offline **trajectory smoothing, resampling, and evaluation toolkit**  
@@ -9,6 +11,9 @@ An offline **trajectory smoothing, resampling, and evaluation toolkit**
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
 
 [Overview](#overview) • [Quick Start](#quick-start) • [Core Tools](#core-tools) • [Data Formats](#data-formats) • [Pipelines](#end-to-end-pipelines) • [File Structure](#file-structure) • [Notes](#notes--dependencies)
+
+
+</div>
 
 ---
 
